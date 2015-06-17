@@ -45,5 +45,5 @@ __BASH_METRIC_0;eth0_transmitted_error_count:0:1434572963397
 
 Based on:
 
-https://github.com/chrishiestand/docker-linux-stats
-https://github.com/chrishiestand/linux-system-stats
+* <https://github.com/chrishiestand/docker-linux-stats>
+* <https://github.com/chrishiestand/linux-system-stats>
