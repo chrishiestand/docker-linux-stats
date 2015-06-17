@@ -15,6 +15,7 @@ For system monitoring
 It's up to you to set the output to e.g. stdout or syslog and collect the metrics as you wish. In the future I may open source what I've done to solve that part of the problem.
 
 ## Output
+```__BASH_METRIC_x``` where x is the version of the output format.
 
 Columns are: measurement name_unit, measure value, timestamp in ms
 
